@@ -1,3 +1,11 @@
+---
+name: Scheduled maintenance
+about: Schedule some maintenance downtime
+title: ''
+labels: 'maintenance'
+assignees: 'vb4life'
+---
+
 Enter maintenance text here
 
 <!--
