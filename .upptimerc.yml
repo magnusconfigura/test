@@ -13,6 +13,10 @@ sites:
   - name: GitLab
     url: https://git.configura.com/users/sign_in
     icon: https://about.gitlab.com/ico/favicon.ico
+  - name: GitLab SSH
+    url: git.configura.com
+    icon: https://about.gitlab.com/ico/favicon.ico
+    port: 22
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
