@@ -10,19 +10,20 @@ sites:
     url: https://my.configura.com/index.pl?page=login
   - name: GitLab
     url: https://git.configura.com/users/sign_in
+    icon: https://about.gitlab.com/ico/favicon.ico
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: upptime.configura.com
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://downloads.configura.com/web/img/logos/configura.svg
+  name: Configura Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page
-  navbar:
-    - title: Status
-      href: /
+  introMessage: This is a test status page for Configura services
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+assignees:
+  - vb4life
+user-agent: vb4life
