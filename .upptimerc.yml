@@ -8,6 +8,8 @@ sites:
     url: https://www.configura.com/
   - name: MyConfigura
     url: https://my.configura.com/index.pl?page=login
+  - name: Jira
+    url: https://jira.configura.com/secure/Dashboard.jspa
   - name: GitLab
     url: https://git.configura.com/users/sign_in
     icon: https://about.gitlab.com/ico/favicon.ico
